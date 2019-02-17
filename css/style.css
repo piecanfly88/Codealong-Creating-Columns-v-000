@@ -99,7 +99,7 @@ figcaption {
   content: ".";
   display: block;
   clear: both;
-  visibility: hidden; 
+  visibility: hidden;
 }
 
 [class*="col-"] {
@@ -109,5 +109,3 @@ figcaption {
 .first {
   margin-left: 0%;
 }
-
-
